@@ -12,7 +12,7 @@ Additional features include:
 - **Profile Management:** Save and organize students lessons and flashcards in their profile for easy access and review.
 
 ## Demonstration
-A demonstration video is available [here]([https://drive.google.com/file/d/1QQ_JIvIjFwmhX8uhUgi-oePa8mso7BfJ/view?usp=sharing]) 
+A demonstration video is available [here](https://drive.google.com/file/d/1QQ_JIvIjFwmhX8uhUgi-oePa8mso7BfJ/view?usp=sharing) 
 
 
 ## Acknowledgments
